@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luke Brazil</h1>
+<h1 align="center">Hi 👋, I'm Luke Brazil.</h1>
 <h3 align="center">Software Developer | Veteran</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukebrazil" alt="lukebrazil" /></a> </p>
