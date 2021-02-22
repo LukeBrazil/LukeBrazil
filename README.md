@@ -14,4 +14,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukebrazil&show_icons=true&locale=en&layout=compact" alt="lukebrazil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukebrazil&show_icons=true&locale=en" alt="lukebrazil" /></p>
