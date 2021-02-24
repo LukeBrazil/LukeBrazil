@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luke Brazil</h1>
+<h1 align="center">Hi 👋, I'm Luke Brazil.</h1>
 <h3 align="center">Software Developer | Veteran</h3>
 
 <h3 align="left">Connect with me:</h3>
