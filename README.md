@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/luke-brazil-0506b71b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luke-brazil-0506b71b0/" height="30" width="40" /></a>
 </p>
 
-<h3 align='left'><a href="https://lukebrazil.com" target="_blank">Portfolio Website</a></h3>
+<h3 align='left'><a href="https://lukebrazil.netlify.app/" target="_blank">Portfolio Website</a></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
